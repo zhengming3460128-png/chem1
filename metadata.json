@@ -1,0 +1,5 @@
+{
+  "name": "MoleculeGenius AI",
+  "description": "An interactive AI-powered molecular visualizer. Enter a chemical formula to generate accurate Lewis structures and interactive 3D VSEPR geometries.",
+  "requestFramePermissions": []
+}
